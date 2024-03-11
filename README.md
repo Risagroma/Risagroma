@@ -1,6 +1,6 @@
 # Hi👋, I'm Riski Agung Romadhon
-Someone yang tertarik untuk menjadi **Software Engineer**, terutama di Android and Game Development.<br>
-Selain itu, Virtual and Augmented Reality cukup populer akhir-akhir ini.
+Someone who is interested in becoming a Software Engineer, especially in Android and Game Development.
+Also, Virtual and Augmented Reality are quite popular these days.
 
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Java, Kotlin, and Flutter
