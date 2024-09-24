@@ -11,10 +11,10 @@ Risagroma/Risagroma is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Github Static
+### Github Stat
 <p align="left">
-<a href="https://github.com/Risagroma">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=risagroma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=risagroma&layout=compact&theme=algolia"/>
-</a>
+   <a href="https://github.com/Risagroma">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=risagroma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://streak-stats.demolab.com?user=risagroma&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"/>
+   </a>
 </p>
