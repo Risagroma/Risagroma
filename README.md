@@ -1,4 +1,4 @@
-# Hi👋, I'm Riski Agung Romadhon
+# Hi👋, I'm Risagroma
 Someone who is interested in becoming a Software Engineer, especially in Android and Game Development.
 Also, Artificial Intelligence, Virtual and Augmented Reality are quite popular these days.
 
